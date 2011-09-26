@@ -106,9 +106,9 @@ function wppf_update()
 	*/
 	
 	//submenu-only version
-	wp_redirect( admin_url( 'options-general.php?page=wppf&wppf-updated=true' ) );
+	//wp_redirect( admin_url( 'options-general.php?page=wppf&wppf-updated=true' ) );
 	//top-level menu version
-	//wp_redirect( admin_url( 'admin.php?page=wppf&wppf-updated=true' ) );
+	wp_redirect( admin_url( 'admin.php?page=wppf&wppf-updated=true' ) );
 }
 
 add_action('admin_notices', 'wppf_admin_notices');
