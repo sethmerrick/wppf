@@ -1,6 +1,7 @@
 <?php 
 /**
  * This code assumes there is an update from WPPF 1.0 to WPPF 1.1 available.
+ * This file should be placed at http://api.example.com/update/ alongside the .zip files containing the update payload(s)
  * refer to http://konstruktors.com/blog/wordpress/2538-automatic-updates-for-plugins-and-themes-hosted-outside-wordpress-extend/ for more info
  * Be sure to remove this file and the api/ folder from plugin root before deploying plugin.
  */
