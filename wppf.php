@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WordPress Plugin Framework
-Plugin URI: http://github.com
+Plugin URI: http://github.com/StrangeWind/wppf
 Description: A Starting Point for WordPress Plugins
 Version: 1.0
 Author: Strange Wind Studio
-Author URI: http://github.com
+Author URI: http://github.com/StrangeWind
 License: GPL2
 */
 
