@@ -10,7 +10,7 @@ Place all files inside your WordPress installation at wp-content/plugins/your-pl
 
 Do a global Find & Replace in your favorite text editor or IDE to change the string 'wppf' to 'your_plugin_namespace'
 
-Write codez and push buttonz.
+Write codez and push buttonz...
 
 LICENSE
 -------
